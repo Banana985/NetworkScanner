@@ -17,7 +17,7 @@ A network scanner made with Python that detects devices on the network and check
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/Banana985/NetworkScanner.git
+(https://github.com/JoshuaFeldman17/NetworkScanner.git
 ```
 ## 2. Install dependencies:
 ```bash
