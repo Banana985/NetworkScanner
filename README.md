@@ -18,3 +18,8 @@ A network scanner made with Python that detects devices on the network and check
 
 ```bash
 git clone https://github.com/Banana985/NetworkScanner.git
+```
+## 2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
