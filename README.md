@@ -1,15 +1,22 @@
-# NetworkScanner
-A network scanner made with Python that detects devices on the network and checks for open ports.
+# **NetworkScanner**
 
-## Features
-- Discover devices on a local network
-- Displays IP and MAC addresses of found devices
-- Shows open ports 
+A Python-based network scanner that detects devices on a local network and checks for open ports. This tool helps you monitor your network by identifying active devices and ensuring network security.
 
-## Setup
-1. Clone the repository:
-  https://github.com/Banana985/NetworkScanner.git
-2. Install dependencies:
-  pip install -r requirements.txt 
-4. Run the scanner:
-  python scanner.py
+---
+
+## **Features**
+
+- Discover devices on a local network.
+- Display the **IP** and **MAC** addresses of found devices.
+- Show **open ports** on detected devices.
+
+---
+
+## **Setup Instructions**
+
+### **1. Clone the Repository**
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/Banana985/NetworkScanner.git
