@@ -8,5 +8,8 @@ A network scanner made with Python that detects devices on the network and check
 
 ## Setup
 1. Clone the repository:
+  https://github.com/Banana985/NetworkScanner.git
 2. Install dependencies:
-3. Run the scanner:
+  pip install -r requirements.txt 
+4. Run the scanner:
+  python scanner.py
