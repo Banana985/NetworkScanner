@@ -23,7 +23,7 @@ git clone https://github.com/Banana985/NetworkScanner.git
 ```bash
 pip install -r requirements.txt
 ```
-##4. Run the scanner:
+## 4. Run the scanner:
 ```bash
 python scanner.py
 ```
