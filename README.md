@@ -8,3 +8,5 @@ A network scanner made with Python that detects devices on the network and check
 
 ## Setup
 1. Clone the repository:
+2. Install dependencies:
+3. Run the scanner:
